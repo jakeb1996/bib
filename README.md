@@ -1,6 +1,12 @@
 # bib
 Citations seem to be difficult to manage. I will try to solve that with this repo.
 
+## Build the bib file
+```
+$ ./make.sh
+```
+
+## Pulling the bibliography into another repo
 
 https://stackoverflow.com/questions/21353656/merge-git-repo-into-branch-of-another-repo/21353836#21353836
 
